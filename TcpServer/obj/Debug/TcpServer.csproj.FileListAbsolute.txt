@@ -1,0 +1,7 @@
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\TcpServer\TcpServer\bin\Debug\TcpServer.exe.config
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\TcpServer\TcpServer\bin\Debug\TcpServer.exe
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\TcpServer\TcpServer\bin\Debug\TcpServer.pdb
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\TcpServer\TcpServer\obj\Debug\TcpServer.csproj.AssemblyReference.cache
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\TcpServer\TcpServer\obj\Debug\TcpServer.csproj.CoreCompileInputs.cache
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\TcpServer\TcpServer\obj\Debug\TcpServer.exe
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\TcpServer\TcpServer\obj\Debug\TcpServer.pdb

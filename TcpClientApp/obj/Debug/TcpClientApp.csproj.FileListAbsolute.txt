@@ -1,0 +1,7 @@
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\TcpServer\TcpClientApp\bin\Debug\TcpClientApp.exe.config
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\TcpServer\TcpClientApp\bin\Debug\TcpClientApp.exe
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\TcpServer\TcpClientApp\bin\Debug\TcpClientApp.pdb
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\TcpServer\TcpClientApp\obj\Debug\TcpClientApp.csproj.AssemblyReference.cache
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\TcpServer\TcpClientApp\obj\Debug\TcpClientApp.csproj.CoreCompileInputs.cache
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\TcpServer\TcpClientApp\obj\Debug\TcpClientApp.exe
+C:\Users\thari\Documents\Nethmi\KDU\6th Semester\TcpServer\TcpClientApp\obj\Debug\TcpClientApp.pdb
